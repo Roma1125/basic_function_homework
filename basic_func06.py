@@ -3,4 +3,4 @@
 # Return the value str type.
 def main():
     return 'salom'
-print (main())
+print (main()) 
