@@ -5,4 +5,4 @@
 # Return the value a.
 def main(a):
     return a
-print (main(a))
+print (main('a')) 
